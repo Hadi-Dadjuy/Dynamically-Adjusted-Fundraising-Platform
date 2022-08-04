@@ -6,7 +6,7 @@ In my opinion, one drawback of bonding curves is that they are prone to pump and
 
 User will deposit DAI and after the end of sale he or she will get HDT reward token  which stands for Hadi Dadjuy's Token :)
 
-Head over to [this link]() to see a live demo of dapp.
+Head over to [this link](hdt-fundraise.netlify.app) to see a live demo of dapp.
 
 # Smart Contracts
 
