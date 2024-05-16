@@ -1,4 +1,4 @@
-# Customized Bonding Curve Funding Platform
+# Dynamically Adjusted Fundraising Platform
 
 In this project I implemented a customized funding platform using bonding curves. The formula related to curve mentioned below.  
 
